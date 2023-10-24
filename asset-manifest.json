@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ecommerce_cara/static/css/main.74714b3d.css",
+    "main.js": "/Ecommerce_cara/static/js/main.758aebd6.js",
+    "static/js/787.a91053ce.chunk.js": "/Ecommerce_cara/static/js/787.a91053ce.chunk.js",
+    "static/media/hero4.png": "/Ecommerce_cara/static/media/hero4.d02d6d2baf046ba16e25.png",
+    "static/media/b4.jpg": "/Ecommerce_cara/static/media/b4.d4973636195481212099.jpg",
+    "static/media/b14.png": "/Ecommerce_cara/static/media/b14.b3fa0d36c31c33d909c6.png",
+    "static/media/b18.jpg": "/Ecommerce_cara/static/media/b18.e0d6bcaf42b430fde405.jpg",
+    "static/media/b10.jpg": "/Ecommerce_cara/static/media/b10.a08e172c86210ae63dad.jpg",
+    "static/media/b17.jpg": "/Ecommerce_cara/static/media/b17.2da9a940b676cf8eb0f5.jpg",
+    "static/media/b2.jpg": "/Ecommerce_cara/static/media/b2.143e491242b908d2e1fa.jpg",
+    "static/media/b7.jpg": "/Ecommerce_cara/static/media/b7.2af5c7833ccb4dec437f.jpg",
+    "index.html": "/Ecommerce_cara/index.html",
+    "main.74714b3d.css.map": "/Ecommerce_cara/static/css/main.74714b3d.css.map",
+    "main.758aebd6.js.map": "/Ecommerce_cara/static/js/main.758aebd6.js.map",
+    "787.a91053ce.chunk.js.map": "/Ecommerce_cara/static/js/787.a91053ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74714b3d.css",
+    "static/js/main.758aebd6.js"
+  ]
+}
