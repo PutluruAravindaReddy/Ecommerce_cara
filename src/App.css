@@ -111,6 +111,7 @@ body {
   height: 90vh;
   width: 100%;
   padding: 0 9%;
+  background-position: top 25% left 75%;
   display: flex;
   flex-direction: column;
   align-items: flex-start;
