@@ -28,7 +28,7 @@ Users should be able to:
 ### Screenshot
 
 
-<img width="40%" height="1200px" src="./src/img/desktop_image.jpeg" />
+<img width="45%" height="1200px" src="./src/img/desktop_image.jpeg" />
 
 
 
