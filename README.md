@@ -1,9 +1,6 @@
-<<<<<<< HEAD
-# Ecommerce_cara(https://putluruaravindareddy.github.io/Ecommerce_cara/)
-=======
+
 
 # [Ecommerce_cara](https://putluruaravindareddy.github.io/Ecommerce_cara/)
->>>>>>> b7591104220ca34a7636d14495f0d06005596de5
 
 This is an Ecommerce Website Build to practice my skills
 
@@ -32,11 +29,7 @@ Users should be able to:
 ### Screenshot
 
 
-<<<<<<< HEAD
-<img width="40%" height="600px" src="./src/img/desktop_image.jpeg" />
-=======
 <img width="45%" height="1200px" src="./src/img/desktop_image.jpeg" />
->>>>>>> b7591104220ca34a7636d14495f0d06005596de5
 
 
 
@@ -83,9 +76,6 @@ I have built this project's only home page, but I still need to work a lot to ta
 
 ## Acknowledgments
 
-<<<<<<< HEAD
-This project was built by myself without anyone's help.
-=======
 This project was built by myself without anyone's help.
 
 
@@ -163,4 +153,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 
->>>>>>> b7591104220ca34a7636d14495f0d06005596de5
